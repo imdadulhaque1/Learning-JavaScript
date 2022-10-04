@@ -3,6 +3,7 @@ let myCustomObj = {
     age:24,
     job:"Software Engineer",
     msg: function(){
-        console.log(this)
+        console.log(this);
+        // console.log(this.name)
     }
 }
