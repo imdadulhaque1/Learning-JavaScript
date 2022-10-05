@@ -5,6 +5,7 @@ let myCustomObj = {
     anotherObj:{
         name:"Israt Jahan Maisha",
         msg: function(){
+            name: "Shampa Khatun",
             // console.log(this);
             console.log(this.name)
         }
